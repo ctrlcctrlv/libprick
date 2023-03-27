@@ -8,7 +8,7 @@ setup(
     download_url = 'https://github.com/libprick/lastfmcache/archive/v1.0.0.tar.gz',
     keywords = ['pricker', 'python', 'hash', 'sha256'],
     install_requires = [
-                    'av==8.0.2'
+                    'av>=10.0'
                 ],
 
     classifiers = [
